@@ -14,3 +14,5 @@ You can use the images below for reference.
 ![Creating Shared Mailbox](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/3f1886ee2d56ea6457b4360ac3728418c2d1b3da/Images/Creating-SharedMailbox.png)
 
 ![Creating Shared Mailbox](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Creating-SharedMailbox-name.png)
+
+![Creating Shared Mailbox](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Creating-SharedMailbox-addUsers.png)
