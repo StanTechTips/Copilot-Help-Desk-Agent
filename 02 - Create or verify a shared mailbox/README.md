@@ -1,21 +1,21 @@
-# 📬 Step 2 — Create or Verify a Shared Mailbox
+# 📬 Step 2 - Create or Verify a Shared Mailbox
 
 > The shared mailbox is the destination for all IT tickets submitted through your Copilot Agent.
-> It requires **no additional licence** — your IT team accesses it through their own personal accounts.
+> It requires **no additional licence** - your IT team accesses it through their own personal accounts.
 
 ---
 
 ## What Is a Shared Mailbox?
 
 A shared mailbox is a central inbox that multiple people can access without needing a dedicated licence.
-In this setup, it acts as the **ticket inbox** — every time a user submits an IT request through
+In this setup, it acts as the **ticket inbox** - every time a user submits an IT request through
 the Copilot Agent, it lands here for your IT team to action.
 
 ---
 
 ## 🛠️ Create the Shared Mailbox
 
-### Step 1 — Open the Exchange Admin Centre
+### Step 1 - Open the Exchange Admin Centre
 
 Go to the Exchange Admin Centre using the link below:
 
@@ -25,7 +25,7 @@ Go to the Exchange Admin Centre using the link below:
 
 ---
 
-### Step 2 — Navigate to Shared Mailboxes
+### Step 2 - Navigate to Shared Mailboxes
 
 1. In the left menu, click **Recipients**
 2. From the dropdown, select **Mailboxes**
@@ -33,7 +33,7 @@ Go to the Exchange Admin Centre using the link below:
 
 ---
 
-### Step 3 — Configure the Mailbox
+### Step 3 - Configure the Mailbox
 
 Fill in the details as follows:
 
@@ -47,10 +47,10 @@ Fill in the details as follows:
 
 ---
 
-### Step 4 — Save and Confirm
+### Step 4 - Save and Confirm
 
 Click **Create** to save the mailbox.
-It may take a few minutes to appear — refresh the page if it does not show immediately.
+It may take a few minutes to appear - refresh the page if it does not show immediately.
 
 ---
 
