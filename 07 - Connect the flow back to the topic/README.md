@@ -71,9 +71,9 @@ Click **Save** in the top right of the topic editor to save all changes.
 
 ## 📸 Reference Screenshots
 
-![Call an Action Node](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/main/Images/Call-Action-Node.png)
+![Call an Action Node](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Map%20Variables.png)
 
-![Variable Mapping](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/main/Images/Variable-Mapping.png)
+![Variable Mapping](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Variable%20Mapping.png)
 
 ---
 
