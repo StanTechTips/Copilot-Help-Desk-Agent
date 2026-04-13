@@ -21,7 +21,7 @@ that guides a user through submitting an IT support ticket step by step.
 1. Inside your agent, click **Topics** in the left navigation
 2. Click **+ Add topic**
 3. Select **From blank**
-4. Name the topic: `Submit IT Ticket`
+4. Name the topic: `Submit IT Ticket.`
 
 ---
 
@@ -126,6 +126,8 @@ Work through each node in order by clicking the **+** button below the previous 
 ![Submit a Ticket Topic](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Submite-a-ticket-2.png)
 
 ![Submit a Ticket Topic](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Submite-a-ticket-3.png)
+
+![Submit a Ticket Topic](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Submite-a-ticket-4.png)
 
 ---
 
