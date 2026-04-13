@@ -1,4 +1,4 @@
-# 🤖 Step 3 — Create a New Agent in Copilot Studio
+# 🤖 Step 3 - Create a New Agent in Copilot Studio
 
 > Log in and create a blank agent. You will configure its identity first,
 > then build topics and automation on top of it in the steps that follow.
@@ -15,7 +15,7 @@ and the instructions that shape how it behaves in every conversation.
 
 ## 🛠️ Create the Agent
 
-### Step 1 — Open Copilot Studio
+### Step 1 - Open Copilot Studio
 
 Navigate to Copilot Studio using the link below and sign in with your Microsoft 365 account:
 
@@ -23,7 +23,7 @@ Navigate to Copilot Studio using the link below and sign in with your Microsoft 
 
 ---
 
-### Step 2 — Create a New Agent
+### Step 2 - Create a New Agent
 
 1. In the left panel, click **Create**
 2. Select **New agent**
@@ -31,7 +31,7 @@ Navigate to Copilot Studio using the link below and sign in with your Microsoft 
 
 ---
 
-### Step 3 — Configure the Agent Identity
+### Step 3 - Configure the Agent Identity
 
 Fill in the agent details as follows:
 
@@ -42,7 +42,7 @@ Fill in the agent details as follows:
 
 ---
 
-### Step 4 — Add Instructions
+### Step 4 - Add Instructions
 
 In the **Instructions** field, paste the following:
 
@@ -54,7 +54,7 @@ Do not attempt to solve technical issues yourself.
 
 ---
 
-### Step 5 — Create the Agent
+### Step 5 - Create the Agent
 
 Click **Create** to save and generate your agent.
 
