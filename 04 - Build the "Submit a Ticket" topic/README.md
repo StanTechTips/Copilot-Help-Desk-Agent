@@ -125,6 +125,8 @@ Work through each node in order by clicking the **+** button below the previous 
 
 ![Submit a Ticket Topic](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Submite-a-ticket-2.png)
 
+![Submit a Ticket Topic](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Submite-a-ticket-3.png)
+
 ---
 
 ## ✅ Checklist Before Moving On
