@@ -78,7 +78,7 @@ Click **Create** to save and generate your agent.
 
 - [ ] Signed in to copilotstudio.microsoft.com
 - [ ] Created a new blank agent
-- [ ] Name set to `IT Help Desk Agent`
+- [ ] Name set to `IT Help Desk Agent.`
 - [ ] Description added
 - [ ] Instructions pasted in
 - [ ] Agent successfully created
@@ -86,4 +86,4 @@ Click **Create** to save and generate your agent.
 ---
 
 > **← Previous Step** [02 - Create or Verify a Shared Mailbox](../02%20-%20Create%20or%20verify%20a%20shared%20mailbox/README.md)  
-> **Next Step →** `04 - Next Step Name Here`
+> **Next Step →** [04 - Build the "Submit a Ticket" Topic](../04%20-%20Build%20the%20%22Submit%20a%20Ticket%22%20topic/README.md)
