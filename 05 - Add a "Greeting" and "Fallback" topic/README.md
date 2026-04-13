@@ -92,4 +92,4 @@ Would you like to raise a support request?
 ---
 
 > **← Previous Step** [04 - Build the "Submit a Ticket" Topic](../04%20-%20Build%20the%20%22Submit%20a%20Ticket%22%20topic/README.md)  
-> **Next Step →** `06 - Next Step Name Here`
+> **Next Step →** [06 - Create the Power Automate flow](../06%20-%20Create%20the%20Power%20Automate%20flow#readme.md)
