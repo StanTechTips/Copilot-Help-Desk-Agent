@@ -9,14 +9,14 @@
 ## What Are We Doing Here?
 
 In Copilot Studio, **Topics** define how your agent responds to specific user intentions.
-In this step you will build the core topic of the entire agent — the conversation flow
+In this step, you will build the core topic of the entire agent — the conversation flow
 that guides a user through submitting an IT support ticket step by step.
 
 ---
 
 ## 🛠️ Create the Topic
 
-### Step 1 — Add a New Topic
+### Step 1 - Add a New Topic
 
 1. Inside your agent, click **Topics** in the left navigation
 2. Click **+ Add topic**
@@ -25,7 +25,7 @@ that guides a user through submitting an IT support ticket step by step.
 
 ---
 
-### Step 2 — Add Trigger Phrases
+### Step 2 - Add Trigger Phrases
 
 Trigger phrases are what the user types to activate this topic.
 Add the following phrases, one per line:
@@ -41,7 +41,7 @@ Something is broken
 ```
 
 > **Tip:** The more trigger phrases you add, the better the agent
-> is at recognising when a user wants to raise a ticket.
+> is in recognising when a user wants to raise a ticket.
 
 ---
 
@@ -51,7 +51,7 @@ Work through each node in order by clicking the **+** button below the previous 
 
 ---
 
-### Node 1 — Welcome Message
+### Node 1 - Welcome Message
 
 | Setting | Value |
 |---|---|
@@ -60,7 +60,7 @@ Work through each node in order by clicking the **+** button below the previous 
 
 ---
 
-### Node 2 — Collect Full Name
+### Node 2 - Collect Full Name
 
 | Setting | Value |
 |---|---|
@@ -71,7 +71,7 @@ Work through each node in order by clicking the **+** button below the previous 
 
 ---
 
-### Node 3 — Collect Email Address
+### Node 3 - Collect Email Address
 
 | Setting | Value |
 |---|---|
@@ -82,7 +82,7 @@ Work through each node in order by clicking the **+** button below the previous 
 
 ---
 
-### Node 4 — Collect Issue Description
+### Node 4 - Collect Issue Description
 
 | Setting | Value |
 |---|---|
@@ -93,7 +93,7 @@ Work through each node in order by clicking the **+** button below the previous 
 
 ---
 
-### Node 5 — Collect Urgency Level
+### Node 5 - Collect Urgency Level
 
 | Setting | Value |
 |---|---|
@@ -107,7 +107,7 @@ Work through each node in order by clicking the **+** button below the previous 
 
 ---
 
-### Node 6 — Confirmation Message
+### Node 6 - Confirmation Message
 
 | Setting | Value |
 |---|---|
@@ -129,12 +129,12 @@ Work through each node in order by clicking the **+** button below the previous 
 
 - [ ] Topic created and named `Submit IT Ticket`
 - [ ] All 7 trigger phrases added
-- [ ] Node 1 — Welcome message added
-- [ ] Node 2 — Full name question added, saved to `UserName`
-- [ ] Node 3 — Email question added, saved to `UserEmail`
-- [ ] Node 4 — Issue description added, saved to `IssueDescription`
-- [ ] Node 5 — Urgency question added with quick-reply buttons, saved to `Urgency`
-- [ ] Node 6 — Confirmation message added with dynamic variables
+- [ ] Node 1 - Welcome message added
+- [ ] Node 2 - Full name question added, saved to `UserName`
+- [ ] Node 3 - Email question added, saved to `UserEmail`
+- [ ] Node 4 - Issue description added, saved to `IssueDescription`
+- [ ] Node 5 - Urgency question added with quick-reply buttons, saved to `Urgency`
+- [ ] Node 6 - Confirmation message added with dynamic variables
 - [ ] Topic saved
 
 ---
