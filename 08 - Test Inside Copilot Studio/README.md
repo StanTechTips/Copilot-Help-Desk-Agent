@@ -95,11 +95,11 @@ If the email does not arrive or the flow errors, follow these steps to debug:
 
 ## 📸 Reference Screenshots
 
-![Test Panel in Copilot Studio](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/main/Images/Test-Panel.png)
+![Test Panel in Copilot Studio](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Test-Panel-in-Copilot-Studio.png)
 
-![Test Email in Shared Mailbox](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/main/Images/Test-Email.png)
+![Test Email in Shared Mailbox](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Test-Email-in-Shared-Mailbox.png)
 
-![Power Automate Run History](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/main/Images/Flow-Run-History.png)
+![Power Automate Run History](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Power-Automate-run-history.png)
 
 ---
 
