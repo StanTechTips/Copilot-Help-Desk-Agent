@@ -127,12 +127,12 @@ This ticket was submitted automatically via the IT Help Desk Agent.
 ## ✅ Checklist Before Moving On
 
 - [ ] Flow created from inside the Submit IT Ticket topic
-- [ ] All four inputs added to the trigger — `UserName`, `UserEmail`, `IssueDescription`, `Urgency.`
+- [ ] All four inputs added to the trigger - `UserName`, `UserEmail`, `IssueDescription`, `Urgency.`
 - [ ] Send an email (V2) action added using Office 365 Outlook connector
 - [ ] Email `To` field set to your shared mailbox address
 - [ ] Email subject configured with dynamic content
 - [ ] Email body populated with all four dynamic content tokens
-- [ ] Return value added — `TicketStatus` = `Submitted.`
+- [ ] Return value added - `TicketStatus` = `Submitted.`
 - [ ] Flow saved and named `IT Ticket — Send Email.`
 
 ---
