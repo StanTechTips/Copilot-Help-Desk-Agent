@@ -1,4 +1,4 @@
-# 🔗 Step 7 — Connect the Flow Back to the Topic
+# 🔗 Step 7 - Connect the Flow Back to the Topic
 
 > After saving the flow, you return to Copilot Studio.
 > Now you must map the conversation variables collected from the user
@@ -8,18 +8,18 @@
 
 ## What Are We Doing Here?
 
-In Step 6 you built the Power Automate flow that sends the ticket email.
-In this step you will **connect that flow to your Copilot topic** by mapping
+In Step 6, you built the Power Automate flow that sends the ticket email.
+In this step, you will **connect that flow to your Copilot topic** by mapping
 each variable collected during the conversation to the matching flow input.
 
-Think of this as plugging the wires in — the data collected from the user
+Think of this as plugging the wires in - the data collected from the user
 needs to be explicitly told where to go.
 
 ---
 
 ## 🛠️ Map the Variables
 
-### Step 1 — Locate the Call an Action Node
+### Step 1 - Locate the Call an Action Node
 
 1. Return to your **Submit IT Ticket** topic in Copilot Studio
 2. Find the **Call an action** node in your conversation flow
@@ -27,7 +27,7 @@ needs to be explicitly told where to go.
 
 ---
 
-### Step 2 — Map Each Input to Its Variable
+### Step 2 - Map Each Input to Its Variable
 
 For each input field in the node, click the arrow and select
 the matching variable collected earlier in the conversation:
@@ -45,7 +45,7 @@ the matching variable collected earlier in the conversation:
 
 ---
 
-### Step 3 — Handle the Returned TicketStatus (Optional)
+### Step 3 - Handle the Returned TicketStatus (Optional)
 
 The flow returns a value called `TicketStatus` with the value `Submitted`.
 You can optionally use this to send a dynamic follow-up message:
@@ -63,7 +63,7 @@ Our IT team will be in touch at {UserEmail} shortly.
 
 ---
 
-### Step 4 — Save the Topic
+### Step 4 - Save the Topic
 
 Click **Save** in the top right of the topic editor to save all changes.
 
