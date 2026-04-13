@@ -1,4 +1,4 @@
-# 👋 Step 5 — Add a "Greeting" and "Fallback" Topic
+# 👋 Step 5 - Add a "Greeting" and "Fallback" Topic
 
 > Two extra topics that make the agent feel complete and polished
 > rather than half-built. These are the first and last impressions
@@ -23,7 +23,7 @@ rather than using the generic Microsoft defaults.
 
 ## 🛠️ Edit the Greeting Topic
 
-### Step 1 — Open the Greeting Topic
+### Step 1 - Open the Greeting Topic
 
 1. In your agent, click **Topics** in the left navigation
 2. Click the **System** tab
@@ -31,7 +31,7 @@ rather than using the generic Microsoft defaults.
 
 ---
 
-### Step 2 — Replace the Default Message
+### Step 2 - Replace the Default Message
 
 Find the existing **Send a message** node and replace the text with:
 
@@ -49,7 +49,7 @@ How can I help today?
 
 ## 🛠️ Edit the Fallback Topic
 
-### Step 1 — Open the Fallback Topic
+### Step 1 - Open the Fallback Topic
 
 1. In your agent, click **Topics** in the left navigation
 2. Click the **System** tab
@@ -57,7 +57,7 @@ How can I help today?
 
 ---
 
-### Step 2 — Update the Fallback Message
+### Step 2 - Update the Fallback Message
 
 Find the existing **Send a message** node and replace the text with:
 
@@ -75,9 +75,9 @@ Would you like to raise a support request?
 
 ## 📸 Reference Screenshots
 
-![Greeting Topic](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/main/Images/Greeting-Topic.png)
+![Greeting Topic](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Greeting-Topic.png)
 
-![Fallback Topic](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/main/Images/Fallback-Topic.png)
+![Fallback Topic](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Fallback-topic.png)
 
 ---
 
