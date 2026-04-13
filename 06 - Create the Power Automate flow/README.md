@@ -116,9 +116,9 @@ This ticket was submitted automatically via the IT Help Desk Agent.
 
 ## 📸 Reference Screenshots
 
-![Power Automate Flow Inputs](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/main/Images/Flow-Inputs.png)
+![Power Automate Flow Inputs](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Power-Automate-create-flow.png)
 
-![Send Email Configuration](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/main/Images/Flow-Email-Config.png)
+![Send Email Configuration](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Power-Automate-send-email.png)
 
 ![Return Value Configuration](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/main/Images/Flow-Return-Value.png)
 
