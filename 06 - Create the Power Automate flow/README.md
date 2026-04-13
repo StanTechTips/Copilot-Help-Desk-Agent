@@ -42,7 +42,7 @@ In this step, you will build a flow that:
 | `Urgency` | Text |
 
 > **Important:** Input names are case-sensitive. Make sure they match
-> exactly as shown — these must align with the variable names
+> exactly as shown - these must align with the variable names
 > you set in your Copilot topic in Step 4.
 
 ---
@@ -109,7 +109,7 @@ This ticket was submitted automatically via the IT Help Desk Agent.
 1. Click **Save**
 2. Name the flow: `IT Ticket — Send Email.`
 
-> **Tip:** Give it a clear name now — if you build more flows later,
+> **Tip:** Give it a clear name now - if you build more flows later,
 > A good name saves a lot of confusion when managing them in Power Automate.
 
 ---
@@ -132,7 +132,7 @@ This ticket was submitted automatically via the IT Help Desk Agent.
 - [ ] Email `To` field set to your shared mailbox address
 - [ ] Email subject configured with dynamic content
 - [ ] Email body populated with all four dynamic content tokens
-- [ ] Return value added — `TicketStatus` = `Submitted`
+- [ ] Return value added — `TicketStatus` = `Submitted.`
 - [ ] Flow saved and named `IT Ticket — Send Email.`
 
 ---
