@@ -70,7 +70,7 @@ Click **Create** to save and generate your agent.
 
 ## 📸 Reference Screenshots
 
-![Create New Agent in Copilot Studio](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/main/Images/Create-New-Agent.png)
+![Create New Agent in Copilot Studio](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/refs/heads/main/Images/Copilot-Agent-Creating.png)
 
 ---
 
