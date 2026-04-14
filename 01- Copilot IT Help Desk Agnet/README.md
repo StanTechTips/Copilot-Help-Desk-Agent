@@ -14,7 +14,7 @@ Skipping this step can cause silent failures that are difficult to debug later.
 
 ## Step 1 - Verify Licences & Access
 
-Confirm your tenant has the correct licences assigned before touching any configuration.
+Confirm that your tenant has the correct licences assigned before making any configuration changes.
 
 ### ✅ Required Licences
 
