@@ -91,4 +91,4 @@ Click **Save** in the top right of the topic editor to save all changes.
 ---
 
 > **← Previous Step** [06 - Create the Power Automate Flow](../06%20-%20Create%20the%20Power%20Automate%20flow/README.md)  
-> **Next Step →** [08 - Test inside Copilot Studio] (https://github.com/StanTechTips/Copilot-Help-Desk-Agent/tree/7402d82c7cd6db1dd423af8e29792b360f729114/08%20-%20Test%20Inside%20Copilot%20Studio/README.md)
+> **Next Step →** [08 - Test inside Copilot Studio] (../08%20-%20Test%20Inside%20Copilot%20Studio/README.md)
