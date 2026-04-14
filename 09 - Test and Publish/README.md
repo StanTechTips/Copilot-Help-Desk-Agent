@@ -57,7 +57,7 @@ and Exchange Online - before touching any configuration.
 ### ✅ Step 2 - Create or Verify a Shared Mailbox
 Created a shared mailbox in the Exchange Admin Centre to act as
 The central inbox for all IT tickets submitted through the agent.
-No additional licence required — accessed by your IT team through
+No additional licence required - accessed by your IT team through
 their personal accounts.
 
 ---
