@@ -117,4 +117,4 @@ If the email does not arrive or the flow errors, follow these steps to debug:
 ---
 
 > **← Previous Step** [07 - Connect the Flow Back to the Topic](../07%20-%20Connect%20the%20flow%20back%20to%20the%20topic/README.md)  
-> **Next Step →** `09 - Next Step Name Here`
+> **Next Step →** [09 - Test and Publish](../09%20-%20Test%20and%20Publish/README.md)
