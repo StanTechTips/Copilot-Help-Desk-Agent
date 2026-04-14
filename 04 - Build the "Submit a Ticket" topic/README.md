@@ -146,4 +146,4 @@ Work through each node in order by clicking the **+** button below the previous 
 ---
 
 > **← Previous Step** [03 - Create a New Agent in Copilot Studio](../03-Create%20a%20new%20agent%20in%20Copilot%20Studio/README.md)  
-> **Next Step →** `05 - Next Step Name Here`
+> **Next Step →** [05 - Add a "Greeting" and "Fallback" Topic](../05%20-%20Add%20a%20%22Greeting%22%20and%20%22Fallback%22%20topic/README.md)  
