@@ -1,4 +1,4 @@
-# 🤖 Copilot IT Help Desk Agent — Setup Guide
+# 🤖 Copilot IT Help Desk Agent - Setup Guide
 
 > A complete step-by-step guide to building and deploying an AI-powered 
 > IT Help Desk Agent for your Microsoft 365 tenant using Copilot Studio.
@@ -12,7 +12,7 @@ Skipping this step can cause silent failures that are difficult to debug later.
 
 ---
 
-## Step 1 — Verify Licences & Access
+## Step 1 - Verify Licences & Access
 
 Confirm your tenant has the correct licences assigned before touching any configuration.
 
@@ -40,9 +40,9 @@ Confirm your tenant has the correct licences assigned before touching any config
 Before continuing to Step 2, confirm the following:
 
 - [ ] Microsoft 365 Business Standard or higher — assigned
-- [ ] Copilot Studio licence — assigned
-- [ ] Power Automate licence — assigned
-- [ ] Exchange Online — active on your tenant
+- [ ] Copilot Studio licence - assigned
+- [ ] Power Automate licence - assigned
+- [ ] Exchange Online - active on your tenant
 
 ---
 
