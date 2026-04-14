@@ -50,7 +50,7 @@ Here is everything you have built across all nine steps:
 ### ✅ Step 1 - Verify Licences & Access
 Confirmed that your Microsoft 365 tenant has the correct licences —
 Microsoft 365 Business Standard, Copilot Studio, Power Automate,
-and Exchange Online — before touching any configuration.
+and Exchange Online - before touching any configuration.
 
 ---
 
@@ -64,7 +64,7 @@ their personal accounts.
 
 ### ✅ Step 3 - Create a New Agent in Copilot Studio
 Built a blank agent in Copilot Studio and configured its identity —
-name, description, and instructions — to shape how it behaves
+name, description, and instructions - to shape how it behaves
 in every conversation with users.
 
 ---
@@ -159,7 +159,7 @@ Microsoft 365 Tenant
 
 You have successfully built and deployed a fully functional
 **AI-powered IT Help Desk Agent** using Microsoft Copilot Studio,
-Power Automate, and Exchange Online — with no code required.
+Power Automate, and Exchange Online - with no code required.
 
 ---
 
