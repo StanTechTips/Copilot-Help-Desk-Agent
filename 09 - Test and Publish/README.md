@@ -1,4 +1,4 @@
-# 🚀 Step 9 — Test and Publish
+# 🚀 Step 9 - Test and Publish
 
 > You have built the full IT Help Desk Agent from scratch.
 > This final step walks you through publishing your agent
@@ -18,18 +18,18 @@ See the completed IT Help Desk Agent working end-to-end in the video below:
 
 ## 🛠️ Publish the Agent
 
-### Step 1 — Open the Publish Panel
+### Step 1 - Open the Publish Panel
 
 1. In Copilot Studio, click **Publish** in the left navigation
 2. Click the **Publish** button
 3. Confirm by clicking **Publish** again in the dialog box
 
 > Publishing makes your agent available to users. Any changes made
-> after publishing will need to be republished to take effect.
+> After publishing, it will need to be republished to take effect.
 
 ---
 
-### Step 2 — Choose a Channel (Optional)
+### Step 2 - Choose a Channel (Optional)
 
 After publishing you can deploy your agent to a channel:
 
@@ -47,29 +47,29 @@ Here is everything you have built across all nine steps:
 
 ---
 
-### ✅ Step 1 — Verify Licences & Access
+### ✅ Step 1 - Verify Licences & Access
 Confirmed that your Microsoft 365 tenant has the correct licences —
 Microsoft 365 Business Standard, Copilot Studio, Power Automate,
 and Exchange Online — before touching any configuration.
 
 ---
 
-### ✅ Step 2 — Create or Verify a Shared Mailbox
+### ✅ Step 2 - Create or Verify a Shared Mailbox
 Created a shared mailbox in the Exchange Admin Centre to act as
-the central inbox for all IT tickets submitted through the agent.
+The central inbox for all IT tickets submitted through the agent.
 No additional licence required — accessed by your IT team through
 their personal accounts.
 
 ---
 
-### ✅ Step 3 — Create a New Agent in Copilot Studio
+### ✅ Step 3 - Create a New Agent in Copilot Studio
 Built a blank agent in Copilot Studio and configured its identity —
 name, description, and instructions — to shape how it behaves
 in every conversation with users.
 
 ---
 
-### ✅ Step 4 — Build the "Submit a Ticket" Topic
+### ✅ Step 4 - Build the "Submit a Ticket" Topic
 Created the core conversation topic that triggers when a user
 wants to raise an IT ticket. Built six conversation nodes that
 collect the user's name, email, issue description, and urgency level
@@ -77,14 +77,14 @@ before sending a confirmation message.
 
 ---
 
-### ✅ Step 5 — Add a "Greeting" and "Fallback" Topic
+### ✅ Step 5 - Add a "Greeting" and "Fallback" Topic
 Customised the two built-in system topics to give the agent
 a professional first impression and a helpful fallback response
-when it does not understand the user's input.
+When it does not understand the user's input.
 
 ---
 
-### ✅ Step 6 — Create the Power Automate Flow
+### ✅ Step 6 - Create the Power Automate Flow
 Built a Power Automate flow triggered from inside Copilot Studio
 that receives the four ticket variables and sends a formatted
 email to the shared mailbox, then returns a confirmation
@@ -92,22 +92,22 @@ status back to the agent.
 
 ---
 
-### ✅ Step 7 — Connect the Flow Back to the Topic
+### ✅ Step 7 - Connect the Flow Back to the Topic
 Mapped each conversation variable collected in the Submit IT Ticket
 topic to the matching input parameter in the Power Automate flow,
 completing the connection between Copilot Studio and Power Automate.
 
 ---
 
-### ✅ Step 8 — Test Inside Copilot Studio
+### ✅ Step 8 - Test Inside Copilot Studio
 Ran a full end-to-end test using the built-in test panel, verified
 that the trigger phrase worked, all variables were collected correctly,
-the flow ran successfully, and the email arrived in the shared mailbox
+The flow ran successfully, and the email arrived in the shared mailbox
 with all four fields populated.
 
 ---
 
-### ✅ Step 9 — Publish
+### ✅ Step 9 - Publish
 Published the agent to make it available to users and selected
 a deployment channel to put it in front of your IT team and organisation.
 
