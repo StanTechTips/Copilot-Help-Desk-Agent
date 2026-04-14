@@ -165,4 +165,4 @@ Power Automate, and Exchange Online - with no code required.
 
 > **← Previous Step** [08 - Test Inside Copilot Studio](../08%20-%20Test%20Inside%20Copilot%20Studio/README.md)
 > 
-> **🏠 Back to Start** [01 - Copilot IT Help Desk Agent](../%20Copilot%20IT%20Help%20Desk%20Agent/README.md)
+> **🏠 Back to Start** [01 - Copilot IT Help Desk Agent](../01-%20Copilot%20IT%20Help%20Desk%20Agent)
