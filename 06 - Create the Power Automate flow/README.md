@@ -138,4 +138,4 @@ This ticket was submitted automatically via the IT Help Desk Agent.
 ---
 
 > **← Previous Step** [05 - Add a "Greeting" and "Fallback" Topic](../05%20-%20Add%20a%20%22Greeting%22%20and%20%22Fallback%22%20topic/README.md)  
-> **Next Step →** `07 - Next Step Name Here`
+> **Next Step →** [07 - Connect the flow back to the topic](../07%20-%20Connect%20the%20flow%20back%20to%20the%20topic/README.md)
