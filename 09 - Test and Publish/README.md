@@ -10,7 +10,7 @@
 
 See the completed IT Help Desk Agent working end-to-end in the video below:
 
-[![IT Help Desk Agent — Full Demo](https://raw.githubusercontent.com/StanTechTips/Copilot-Help-Desk-Agent/main/Images/Video-Thumbnail.png)](https://github.com/StanTechTips/Copilot-Help-Desk-Agent/blob/main/Videos/Demo.mp4)
+[![IT Help Desk Agent — Full Demo](https://youtu.be/mleKNY0b-oU)
 
 > **Tip:** Click the image above to watch the full demo video.
 
