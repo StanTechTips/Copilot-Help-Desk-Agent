@@ -10,9 +10,9 @@
 
 See the completed IT Help Desk Agent working end-to-end in the video below:
 
-[![IT Help Desk Agent — Full Demo](https://youtu.be/mleKNY0b-oU)
+[![IT Help Desk Agent — Full Demo](https://img.youtube.com/vi/mleKNY0b-oU/maxresdefault.jpg)](https://youtu.be/mleKNY0b-oU)
 
-> **Tip:** Click the image above to watch the full demo video.
+> **Tip:** Click the image above to watch the full demo on YouTube.
 
 ---
 
